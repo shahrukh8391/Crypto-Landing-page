@@ -1,4 +1,4 @@
-## ⭐ LCrypto Landing page Project 05 ⭐
+## ⭐ Crypto Landing page Project 05 ⭐
 
 This is an assignment given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5 and CSS3**.
 <br>
